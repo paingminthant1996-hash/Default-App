@@ -1,0 +1,6 @@
+{
+  "name": "Auth0 Login",
+  "description": "An elegant Jetpack Compose Android app integrating the Auth0 SDK for secure login/logout flows, featuring dynamic custom tenant configuration and visual token feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

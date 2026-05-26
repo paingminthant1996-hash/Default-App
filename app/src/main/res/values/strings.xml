@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auth0 Login</string>
+    <string name="com_auth0_domain">dev-kin7vo8o5zchlrbm.us.auth0.com</string>
+    <string name="com_auth0_client_id">jcG9NeBpJ4QZisMniFQ8q8Z2dGHwtTUd</string>
+    <string name="com_auth0_scheme">demo</string>
+</resources>
